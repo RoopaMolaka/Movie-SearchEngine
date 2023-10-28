@@ -1,0 +1,25 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Courgette&family=Moon+Dance&family=Schibsted+Grotesk&family=Zilla+Slab:wght@500&display=swap');
+#heading {
+
+    font-family: 'Schibsted Grotesk', sans-serif;
+    margin: 20px 0px;
+    font-size: 38px;
+    
+    text-shadow: 5px 5px 5px #33333333;
+    background-image: linear-gradient(48deg,#9d00ff ,#ef1111 );
+     -webkit-background-clip: text;
+      color: transparent;}
+
+      
+#status{
+    color:rgb(128,128,128);
+    font-family: 'Schibsted Grotesk', sans-serif;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
